@@ -1,0 +1,25 @@
+{
+	"name":"Fuya Yamauchi",
+	"age":20,
+	"work":[
+		"System development",
+		"Website create",
+		"Web Marketing"
+	],
+	"like":"Programming",
+	"Available Language":[
+		"HTML",
+		"CSS",
+		"javascript(jQuery)",
+		"PHP",
+		"Python",
+		"SQL"
+	],
+	"Main development":[
+		"Full scratch System",
+		"Full scratch Website",
+		"Wordpress Plugin",
+		"Wordpress Theme",
+	],
+	"Which do you like better,Front end or Back end?":"Back end!"
+}
