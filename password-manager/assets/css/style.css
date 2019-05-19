@@ -1,0 +1,43 @@
+.navbar-brand{
+	background-image: none!important;
+	color: #fff;
+}
+.be-right-navbar{
+	color: #fff;
+	height: 61px;
+	display: block!important;
+    text-align: center;
+    line-height: 61px;
+    font-size: 30px;
+}
+.card-header a{
+	color:#fff;
+	cursor: pointer;
+}
+.card-flat .card-header a{
+	color: #4285f4;
+}
+.row-data{
+	position: absolute;
+	z-index: -999;
+	top: 0;
+    left: 0;
+    outline: unset;
+}
+.submit-form{
+	display: none;
+}
+h3 span.mdi,a span.mdi.mdi-open-in-new{
+	margin-left: 10px;
+	cursor: pointer;
+}
+#append_splash_msg_inner.default{
+	text-align: center;
+	font-size: 3em;
+	width: 90%;
+}
+@media (min-width: 767.98px){
+	.be-right-navbar{
+		display: none!important;
+	}
+}
