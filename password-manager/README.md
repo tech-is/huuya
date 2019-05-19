@@ -1,5 +1,5 @@
 # Password Manager
-[![a]]
+
 ## Description
 大まかなツールの概要を[こちら](https://docs.google.com/presentation/d/1KZi7R2r1dczK77msYR_nRHUg3sEn50ZVAo6vBDGhH14/edit?usp=sharing)のGoogleスライドにまとめている。
 
