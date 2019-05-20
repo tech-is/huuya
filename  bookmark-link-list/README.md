@@ -12,6 +12,7 @@
 - [input type list](http://www.htmq.com/html5/input.shtml "input type list")
 
 ### CSS
+- [color code](https://www.materialui.co/colors)
 - [animation](https://webkikaku.co.jp/blog/htmlcss/css3animation/ "animation")
 - [flex](https://coliss.com/articles/build-websites/operation/css/css3-flexbox-properties-by-scotch.html "flex")
 - [変数](https://www.webcreatorbox.com/tech/css-variables "変数")
@@ -35,6 +36,7 @@
 
 ### MYSQL
 - [work book](https://qiita.com/yasumon/items/a11b0e5d93e9bebec7a2 "work book")
+- [basic sql learning](https://qiita.com/akito_tameto/items/6fc68852d0a216974ca2)
 
 ### Web Security
 - [Web Server Settings](https://qiita.com/ariaki/items/78ed2d3810ad17f72398 "Web Server Settings")
