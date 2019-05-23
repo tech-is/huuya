@@ -12,6 +12,7 @@
 - [input type list](http://www.htmq.com/html5/input.shtml "input type list")
 
 ### CSS
+- [state selector](http://weboook.blog22.fc2.com/blog-entry-268.html)
 - [color code](https://www.materialui.co/colors)
 - [animation](https://webkikaku.co.jp/blog/htmlcss/css3animation/ "animation")
 - [flex](https://coliss.com/articles/build-websites/operation/css/css3-flexbox-properties-by-scotch.html "flex")
@@ -28,6 +29,9 @@
 - [pjax](https://qiita.com/kokushin/items/f0a7066ff644036cba5e "pjax")
 
 ## Back End
+
+### Overall
+- [speed up by .htaccess](https://cruw.co.jp/blog/2018/08/page_speed_with_htaccess/)
 
 ### PHP
 - [decrypt and encrypt](https://www.softel.co.jp/blogs/tech/archives/4155 "decrypt and encrypt")
@@ -48,5 +52,6 @@
 - [method](https://codelab.website/software-development-method/ "method")
 
 ### Marketing
+- [Web tan forum](https://webtan.impress.co.jp/)
 - [MBA Learning by iOS](https://itunes.apple.com/jp/app/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%93%E3%82%B9-mba%E7%94%A8%E8%AA%9E%E9%9B%86/id405704107?mt=8 "MBA Learning by iOS")
 - [MBA Learning by Android](https://play.google.com/store/apps/details?id=jp.co.globis.mbaglossary&hl=ja "MBA Learning by Android")
