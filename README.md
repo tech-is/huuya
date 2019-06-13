@@ -38,6 +38,10 @@ I can not do that.
 Because my security is hard.
 
 ## Commit list introduction
+- [Pokemon Guide Generator](https://github.com/tech-is/huuya/tree/master/pokemon-guide-generator)
+
+=> ポケモン図鑑ジェネレーターです
+
 - [Bookmark Link List](https://github.com/tech-is/huuya/tree/master/bookmark-link-list)
 
 => WEBプログラミングを行う上でチェックしておきたいリンク集
