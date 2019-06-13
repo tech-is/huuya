@@ -1,5 +1,8 @@
 # ポケモン図鑑ジェネレーター
 
+## メディア掲載
+- [GIGAZINE](https://gigazine.net/news/20171215-pokemon-guide-generator/)
+
 ## 開発秘話
 - [当時のはてなブログ](http://fwww.hateblo.jp/entry/2017/12/12/155330)
 
