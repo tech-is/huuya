@@ -11,6 +11,7 @@
 		"Web Marketing"
 	],
 	"like":"Programming",
+	"Programming history":"8 year",
 	"Available Language":[
 		"HTML",
 		"CSS",
@@ -37,7 +38,7 @@ I can not do that.
 Because my security is hard.
 
 ## Commit list introduction
-- [Bookmark Link List](https://github.com/tech-is/huuya/tree/master/%20bookmark-link-list)
+- [Bookmark Link List](https://github.com/tech-is/huuya/tree/master/bookmark-link-list)
 
 => WEBプログラミングを行う上でチェックしておきたいリンク集
 
